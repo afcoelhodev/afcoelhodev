@@ -20,6 +20,7 @@ class Adriano:
 ```
 
 Trabalho com o que acontece por trás da tela: APIs, integrações e dados que precisam bater certo.
+
 Gosto de resolver problema de verdade e usar criatividade pra alcançar resultados.
 
 <br/>
@@ -95,4 +96,16 @@ Gosto de resolver problema de verdade e usar criatividade pra alcançar resultad
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adriano-co
+<a href="https://www.linkedin.com/in/adriano-coelho-84247539/">
+  <img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0D1117&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>build with Python, café e um terminal aberto</sub>
+</div>
